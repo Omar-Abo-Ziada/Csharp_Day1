@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\bin\Debug\net6.0\Simple Calculator.exe
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\bin\Debug\net6.0\Simple Calculator.deps.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\bin\Debug\net6.0\Simple Calculator.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\bin\Debug\net6.0\Simple Calculator.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\bin\Debug\net6.0\Simple Calculator.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\Simple Calculator.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\Simple Calculator.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\Simple Calculator.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\Simple Calculator.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\refint\Simple Calculator.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\Simple Calculator.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\Simple Calculator.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Simple Calculator\obj\Debug\net6.0\ref\Simple Calculator.dll

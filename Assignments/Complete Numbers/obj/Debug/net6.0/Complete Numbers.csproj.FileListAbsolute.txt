@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\bin\Debug\net6.0\Complete Numbers.exe
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\bin\Debug\net6.0\Complete Numbers.deps.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\bin\Debug\net6.0\Complete Numbers.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\bin\Debug\net6.0\Complete Numbers.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\bin\Debug\net6.0\Complete Numbers.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\Complete Numbers.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\Complete Numbers.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\Complete Numbers.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\Complete Numbers.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\Complete Numbers.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\refint\Complete Numbers.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\Complete Numbers.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\Complete Numbers.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Assignments\Complete Numbers\obj\Debug\net6.0\ref\Complete Numbers.dll
